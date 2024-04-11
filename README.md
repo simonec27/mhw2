@@ -21,6 +21,8 @@ Il contenuto della pagina include:
 
 Per visualizzare la pagina web, apri il file `mhw2.html` su Chrome.
 
+http://127.0.0.1:5500/mhw2.html?
+
 ## Struttura del progetto
 
 Il progetto contiene:
